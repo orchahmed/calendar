@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 
 # Add simple_calendar to Gemfile
 gem 'simple_calendar', '~> 2.0'
+gem 'fullcalendar-rails'
+gem 'momentjs-rails'
